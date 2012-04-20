@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/lib/ant-contrib-0.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/batch.jar"/>
+	<classpathentry kind="lib" path="src/lib/js.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="src/lib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/README_RHINO.txt"/>
+	<classpathentry kind="lib" path="src/lib/README.txt"/>
+	<classpathentry kind="lib" path="src/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="src/lib/tags.jar"/>
+	<classpathentry kind="lib" path="src/lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="src/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="src/lib/WSJ_8gau_13dCep_8kHz_31mel_200Hz_3500Hz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

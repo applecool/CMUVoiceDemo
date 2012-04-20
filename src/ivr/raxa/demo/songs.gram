@@ -1,0 +1,10 @@
+grammar songs;
+
+import <commands.exit_commands>;
+
+public <commands> = <exit_commands> ;
+
+
+public <sing_songs> =    Sing lost in love |
+						 Sing I love you |
+						 Sing gone with the wind;

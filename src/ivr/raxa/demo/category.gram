@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+grammar category;
+
+
+
+
+public <category> =  show romantic movies{romantic}| 
+                     show action movies{action}|
+                     show fiction movies{fiction}|
+                     show thriller movies{thriller};
+
+

@@ -1,0 +1,16 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for dialog manager example
+ */
+
+grammar music;
+
+/**
+ * A 'listen to music' grammar. There's nothing here because all of
+ * the 'listen to XXX' rules are added dynamically from Java
+ */
+
+import <commands.return_commands>;
+
+public <commands> = <return_commands> ;
